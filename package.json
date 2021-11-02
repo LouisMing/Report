@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.0.1",
-    "tinymce": "^5.1.1",
+    "tinymce": "^5.10.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "webpack-dev-server": "^2.9.7"
